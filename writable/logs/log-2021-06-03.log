@@ -1,0 +1,412 @@
+CRITICAL - 2021-06-03 01:23:16 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 01:23:16 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 01:23:19 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 01:23:20 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 01:23:21 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 01:23:22 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 01:23:23 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 01:23:24 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 01:23:25 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 01:23:26 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 01:23:27 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 01:23:28 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 01:23:32 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 01:23:33 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 01:23:34 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 01:23:34 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 01:23:38 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 01:23:39 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 05:08:40 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 05:08:40 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 05:08:42 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 05:08:42 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 05:08:42 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 05:08:42 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 05:08:42 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 05:08:43 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 05:08:43 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 05:08:43 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 05:08:43 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 05:08:43 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 05:08:43 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 05:08:44 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 05:08:44 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 05:08:44 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 05:08:44 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 09:42:13 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 11:19:28 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 11:19:28 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 11:19:34 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 11:19:35 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 11:19:36 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 11:19:38 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 11:19:41 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 11:19:43 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 11:19:44 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 11:19:45 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 11:19:46 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 11:19:51 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 11:19:51 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 11:19:52 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 11:19:53 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 11:19:54 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 11:19:55 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 11:19:56 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 15:54:24 --> Invalid argument supplied for foreach()
+#0 /home/nilj6381/loker/app/Views/detail.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/home/nilj6381/...', 6, Array)
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/View/View.php(230): include('/home/nilj6381/...')
+#2 /home/nilj6381/loker/vendor/codeigniter4/framework/system/View/View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/nilj6381/loker/vendor/codeigniter4/framework/system/Common.php(1250): CodeIgniter\View\View->render('detail', Array, true)
+#4 /home/nilj6381/loker/app/Controllers/Home.php(112): view('detail', Array)
+#5 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(931): App\Controllers\Home->detail()
+#6 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-06-03 16:29:15 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 17:51:03 --> Invalid argument supplied for foreach()
+#0 /home/nilj6381/loker/app/Views/welcome_message.php(219): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/home/nilj6381/...', 219, Array)
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/View/View.php(230): include('/home/nilj6381/...')
+#2 /home/nilj6381/loker/vendor/codeigniter4/framework/system/View/View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/nilj6381/loker/vendor/codeigniter4/framework/system/Common.php(1250): CodeIgniter\View\View->render('welcome_message', Array, true)
+#4 /home/nilj6381/loker/app/Controllers/Home.php(62): view('welcome_message', Array)
+#5 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(931): App\Controllers\Home->index()
+#6 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-06-03 18:11:11 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 18:11:11 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 18:11:12 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 18:11:12 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 18:11:12 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 18:11:12 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 18:11:13 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 18:11:13 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 18:11:13 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 18:11:13 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 18:11:13 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 18:11:13 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 18:11:13 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 18:11:13 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 18:11:14 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 18:11:14 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 18:11:14 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 18:11:14 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 18:29:06 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 23:57:02 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 23:57:04 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 23:57:05 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-03 23:57:07 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}

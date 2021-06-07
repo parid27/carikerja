@@ -1,0 +1,52 @@
+CRITICAL - 2021-06-06 00:01:14 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-06 00:01:24 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-06 00:01:33 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-06 00:01:42 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-06 02:00:41 --> Invalid argument supplied for foreach()
+#0 /home/nilj6381/loker/app/Views/welcome_message.php(219): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/home/nilj6381/...', 219, Array)
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/View/View.php(230): include('/home/nilj6381/...')
+#2 /home/nilj6381/loker/vendor/codeigniter4/framework/system/View/View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/nilj6381/loker/vendor/codeigniter4/framework/system/Common.php(1250): CodeIgniter\View\View->render('welcome_message', Array, true)
+#4 /home/nilj6381/loker/app/Controllers/Home.php(62): view('welcome_message', Array)
+#5 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(931): App\Controllers\Home->index()
+#6 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-06-06 04:52:09 --> file_get_contents(http://public.api.careerjet.net/search?locale_code=&amp;keywords=&amp;location=&amp;page=&amp;affid=173c58d992899af745ee8313574e1023&amp;user_ip=5.188.62.140&amp;user_agent=Mozilla%2F5.0+%28Windows+NT+6.2%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F41.0.2228.0+Safari%2F537.36): failed to open stream: No route to host
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', '/home/nilj6381/...', 228, Array)
+#1 /home/nilj6381/loker/app/Libraries/Careerjet_API.php(228): file_get_contents('http://public.a...', false, Resource id #106)
+#2 /home/nilj6381/loker/app/Libraries/Careerjet_API.php(346): App\Libraries\Careerjet_API->call('search', Array)
+#3 /home/nilj6381/loker/app/Controllers/Home.php(26): App\Libraries\Careerjet_API->search(Array)
+#4 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(931): App\Controllers\Home->index()
+#5 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2021-06-06 18:13:59 --> Invalid argument supplied for foreach()
+#0 /home/nilj6381/loker/app/Views/welcome_message.php(219): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/home/nilj6381/...', 219, Array)
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/View/View.php(230): include('/home/nilj6381/...')
+#2 /home/nilj6381/loker/vendor/codeigniter4/framework/system/View/View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/nilj6381/loker/vendor/codeigniter4/framework/system/Common.php(1250): CodeIgniter\View\View->render('welcome_message', Array, true)
+#4 /home/nilj6381/loker/app/Controllers/Home.php(62): view('welcome_message', Array)
+#5 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(931): App\Controllers\Home->index()
+#6 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#9 {main}

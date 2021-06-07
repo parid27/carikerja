@@ -1,0 +1,107 @@
+CRITICAL - 2021-06-07 00:09:55 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-07 00:09:57 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-07 00:10:00 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-07 00:10:03 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-07 00:10:04 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-07 00:10:06 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-07 00:10:08 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-07 00:10:09 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-07 00:10:10 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-07 00:10:12 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-07 00:10:14 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-07 00:10:16 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-07 00:10:17 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-07 00:10:18 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-07 00:10:19 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-07 00:10:21 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-07 00:10:22 --> Class 'Home' not found
+#0 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(964): CodeIgniter\CodeIgniter->createController()
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(356): CodeIgniter\CodeIgniter->display404errors(Object(CodeIgniter\Exceptions\PageNotFoundException))
+#2 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-06-07 05:18:49 --> Invalid argument supplied for foreach()
+#0 /home/nilj6381/loker/app/Views/welcome_message.php(219): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/home/nilj6381/...', 219, Array)
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/View/View.php(230): include('/home/nilj6381/...')
+#2 /home/nilj6381/loker/vendor/codeigniter4/framework/system/View/View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/nilj6381/loker/vendor/codeigniter4/framework/system/Common.php(1250): CodeIgniter\View\View->render('welcome_message', Array, true)
+#4 /home/nilj6381/loker/app/Controllers/Home.php(62): view('welcome_message', Array)
+#5 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(931): App\Controllers\Home->index()
+#6 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-06-07 05:18:49 --> Invalid argument supplied for foreach()
+#0 /home/nilj6381/loker/app/Views/welcome_message.php(219): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/home/nilj6381/...', 219, Array)
+#1 /home/nilj6381/loker/vendor/codeigniter4/framework/system/View/View.php(230): include('/home/nilj6381/...')
+#2 /home/nilj6381/loker/vendor/codeigniter4/framework/system/View/View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/nilj6381/loker/vendor/codeigniter4/framework/system/Common.php(1250): CodeIgniter\View\View->render('welcome_message', Array, true)
+#4 /home/nilj6381/loker/app/Controllers/Home.php(62): view('welcome_message', Array)
+#5 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(931): App\Controllers\Home->index()
+#6 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /home/nilj6381/loker/vendor/codeigniter4/framework/system/CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/nilj6381/public_html/index.php(36): CodeIgniter\CodeIgniter->run()
+#9 {main}
